@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#files
+data/sparse_matrix_test.npz
+data/sparse_matrix_train.npz
+data/sparse_matrix_train_target.npz
+data/test.csv
